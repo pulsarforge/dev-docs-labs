@@ -1,0 +1,8 @@
+{
+  "label": "ai",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "AI map"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "cloudflare",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Cloudflare map"
+  }
+}
