@@ -1,2 +1,2 @@
-# dev-docs-labs
+# Devs docs labs
 Docs about gardening 🌴🌴🌴🌴
