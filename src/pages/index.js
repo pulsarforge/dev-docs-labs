@@ -26,7 +26,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="https://pulsarforge.io/">
-            Main Devs Labs
+            Devs Labs
           </Link>
         </div>
       </div>
