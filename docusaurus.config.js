@@ -91,6 +91,11 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: 'https://discord.com/invite/4mXg6QSyY8',
+            label: 'Discord',
+            position: 'right',
+          },
         ],
       },
       footer: {
