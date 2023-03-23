@@ -87,6 +87,11 @@ const config = {
             label: 'Devs Docs',
           },
           {
+            href: 'https://pulsarforge.io',
+            label: 'Devs Labs',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/pulsarforge/devs-docs-lab',
             label: 'GitHub',
             position: 'right',
