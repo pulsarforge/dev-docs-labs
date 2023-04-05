@@ -8,8 +8,8 @@ const config = {
   favicon: 'img/logo.png',
   url: 'https://main.pulsarforge.io',
   baseUrl: '/',
-  organizationName: 'pulsarforge', // Usually your GitHub org/user name.
-  projectName: 'Build and ship cool projects', // Usually your repo name.
+  organizationName: 'pulsarforge',
+  projectName: 'Build and ship cool projects',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   i18n: {
