@@ -12,10 +12,6 @@ const config = {
   projectName: 'Build and ship cool projects',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  i18n: {
-    defaultLocale: 'en',
-    locales: ["en"],
-  },
 
   plugins: [
     [
