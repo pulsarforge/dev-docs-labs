@@ -17,6 +17,6 @@ esbuild.
 
 Store internal data in json.
 
-As less dependencies as possible. 13 so far, and working in keep them low.
+As less dependencies as possible, 13 so far, and working in keep them low.
 
 Same order, logic, structure, imports, folders, etc.

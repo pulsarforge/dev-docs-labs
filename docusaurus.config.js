@@ -85,7 +85,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Pulsarforge. Built with Docusaurus.`,
+        copyright: `© ${new Date().getFullYear()} PULSARFORGE ALL RIGHTS RESERVED`,
       },
       prism: {
         theme: lightCodeTheme,
