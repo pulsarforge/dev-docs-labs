@@ -85,7 +85,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `© ${new Date().getFullYear()} PULSARFORGE ALL RIGHTS RESERVED`,
+        copyright: `🦦 © ${new Date().getFullYear()} PULSARFORGE ALL RIGHTS RESERVED`,
       },
       prism: {
         theme: lightCodeTheme,
