@@ -6,8 +6,6 @@ sidebar_position: 1
 
 Flex your keyboard, instead of clicking
 
-CRTL+
-CRTL+SHIFT+
 
 ## Debug
 ```cli
@@ -25,3 +23,8 @@ CTRL+J = open cli
 CTRL+SHIFT+Y = cli debug tag
 ```
 
+## Commands
+```cli
+CTRL+SHIFT+P = open command palette
+CTRL+P = show files in workspace
+```
