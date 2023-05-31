@@ -56,7 +56,7 @@ const config = {
       navbar: {
         title: 'Main',
         logo: {
-          alt: 'Devs Labs',
+          alt: 'Web3 Labs',
           src: 'img/logo.png',
         },
         items: [
@@ -68,7 +68,7 @@ const config = {
           },
           {
             href: 'https://pulsarforge.io',
-            label: 'Devs Labs',
+            label: 'Web3 Labs',
             position: 'right',
           },
           {

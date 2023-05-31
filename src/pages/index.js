@@ -26,7 +26,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="https://pulsarforge.io/">
-            Devs Labs
+            Web3 Labs
           </Link>
         </div>
       </div>
@@ -39,7 +39,7 @@ export default function Home() {
   return (
     <Layout
       title={`Devs Docs`}
-      description="Devs Labs docs web3">
+      description="Web3 labs & devs docs">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
