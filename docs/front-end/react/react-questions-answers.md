@@ -3,8 +3,8 @@ sidebar_position: 2
 ---
 
 
-# React basic questions and answers
-Sup dudes, here I will compile basic react answers, and questions.
+# React questions and answers
+Sup dudes, here I will compile react answers, and questions.
 
 
 ## What is Virtual DOM?
