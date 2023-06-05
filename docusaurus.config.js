@@ -77,6 +77,11 @@ const config = {
             position: 'right',
           },
           {
+            href: 'https://www.youtube.com/@pulsarforge',
+            label: 'Channel',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/pulsarforge/devs-docs-lab',
             label: 'GitHub',
             position: 'right',
@@ -90,7 +95,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `🦦 © ${new Date().getFullYear()} PULSARFORGE ALL RIGHTS RESERVED`,
+        copyright: `© ${new Date().getFullYear()} PULSARFORGE ALL RIGHTS RESERVED`,
       },
       prism: {
         theme: lightCodeTheme,
