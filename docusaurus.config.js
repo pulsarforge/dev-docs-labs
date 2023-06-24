@@ -4,6 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Great Knowledge',
+  staticDirectories: ['public', 'static'],
   tagline: '🤠😎😴🧐',
   favicon: 'img/logo.png',
   url: 'https://main.pulsarforge.io',
@@ -95,7 +96,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `© ${new Date().getFullYear()} PULSARFORGE ALL RIGHTS RESERVED`,
+        copyright: `© ${new Date().getFullYear()} Pulsarforge all rights reserved`,
       },
       prism: {
         theme: lightCodeTheme,
