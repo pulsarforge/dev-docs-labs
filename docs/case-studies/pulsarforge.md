@@ -5,18 +5,18 @@ sidebar_position: 1
 # pulsarforge.io
 
 Techs: 
-Reactjs 18, javascript, markdown integration, sass.
+Nextjs 13, Reactjs 18, javascript, sass.
+
 
 Code decisions:
 
-JS files not jsx.
+- JS files not jsx.
+- Use function syntax.
+- Store internal data in json.
+- As less dependencies as possible.
+- Same order, logic, structure, imports, folders.
 
-Use function syntax to use react.
 
-esbuild.
+Mindset:
 
-Store internal data in json.
-
-As less dependencies as possible, 13 so far, and working in keep them low.
-
-Same order, logic, structure, imports, folders, etc.
+Creating a true home.
