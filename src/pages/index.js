@@ -34,9 +34,6 @@ export default function Home() {
       title={`Devs Docs`}
       description="Web3 labs & devs docs">
       <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
     </Layout>
   );
 }
