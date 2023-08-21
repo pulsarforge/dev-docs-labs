@@ -3,14 +3,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Great Knowledge',
+  title: 'Developer Great Knowledge',
   staticDirectories: ['public', 'static'],
   tagline: '🤠😎😴🧐',
   favicon: 'img/logo.png',
   url: 'https://main.pulsarforge.io',
   baseUrl: '/',
   organizationName: 'pulsarforge',
-  projectName: 'Build and ship cool projects',
+  projectName: 'Build and ship cool platforms',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -20,8 +20,8 @@ const config = {
         {
           indexDocs: true,
           docsRouteBasePath: '/'
-        }
-      ],
+        },
+    ],
   ],
 
   presets: [
