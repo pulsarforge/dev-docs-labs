@@ -136,6 +136,8 @@ class Point {
     this.y = y
   }
 }
+```
+```typescript
 // Inheritance
 class Point {...}
 
@@ -144,7 +146,8 @@ class Point3D extends Point {...}
 interface Colored {...}
 
 class Pixel extends Point implements Colored {...}
-
+```
+```typescript
 // Short fields initialisation
 class Point {
   static instances = 0;
