@@ -6,7 +6,7 @@ const config = {
   title: 'Developer Great Knowledge',
   staticDirectories: ['public', 'static'],
   tagline: '🤠😎😴🧐',
-  favicon: 'img/logo.png',
+  favicon: 'img/devs-docs.png',
   url: 'https://main.pulsarforge.io',
   baseUrl: '/',
   organizationName: 'pulsarforge',
@@ -53,12 +53,12 @@ const config = {
         defaultMode: 'dark',
         disableSwitch: true,
       },
-      image: 'img/logo.png',
+      image: 'img/devs-docs.png',
       navbar: {
         title: 'Main',
         logo: {
           alt: 'Web3 Labs',
-          src: 'img/logo.png',
+          src: 'img/devs-docs.png',
         },
         items: [
           {
