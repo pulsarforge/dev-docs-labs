@@ -68,28 +68,8 @@ const config = {
             label: 'Devs Docs',
           },
           {
-            href: 'https://pulsarforge.io',
-            label: 'Web3 Labs',
-            position: 'right',
-          },
-          {
             href: 'https://pulsarforge.substack.com/',
             label: 'Newsletter',
-            position: 'right',
-          },
-          {
-            href: 'https://www.youtube.com/@pulsarforge',
-            label: 'Channel',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/pulsarforge/devs-docs-lab',
-            label: 'GitHub',
-            position: 'right',
-          },
-          {
-            href: 'https://discord.com/invite/4mXg6QSyY8',
-            label: 'Discord',
             position: 'right',
           },
         ],
