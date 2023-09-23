@@ -68,11 +68,6 @@ const config = {
             label: 'Devs Docs',
           },
           {
-            href: 'https://pulsarforge.io/',
-            label: 'Developer Labs',
-            position: 'right',
-          },
-          {
             href: 'https://pulsarforge.substack.com/',
             label: 'Newsletter',
             position: 'right',
