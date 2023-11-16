@@ -1,8 +1,8 @@
 {
-  "label": "Rust",
+  "label": "Golang",
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "Rust map"
+    "description": "Golang map"
   }
 }

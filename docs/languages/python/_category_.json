@@ -1,8 +1,8 @@
 {
-  "label": "Back",
+  "label": "Python",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Back-end map"
+    "description": "Python map"
   }
 }
