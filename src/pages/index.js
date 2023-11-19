@@ -16,7 +16,6 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
             to="https://main.pulsarforge.io/docs/Mind">
               <img src='/img/devs-docs.png' alt='developer docs' style={{width: 700}}/>
           </Link>
