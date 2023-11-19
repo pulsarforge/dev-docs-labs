@@ -27,4 +27,21 @@ CTRL+SHIFT+Y = cli debug tag
 ```cli
 CTRL+SHIFT+P = open command palette
 CTRL+P = show files in workspace
+CTRL+SHIFT+N = new window
+CTRL+SHIFT+W = close window
 ```
+
+## File Management
+```cli
+CTRL+N = new File
+CTRL+O = open file
+CTRL+S = save file
+CTRL+SHIFT+S = save as
+CTRL+K S = save all
+CTRL+F4 = close
+CTRL+TAB = open next
+CTRL+SHIFT+TAB = open previous
+CTRL+K P = copy path of active file
+CTRL+K R = reveal active file explorer
+```
+
