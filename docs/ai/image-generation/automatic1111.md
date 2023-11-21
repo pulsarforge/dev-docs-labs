@@ -2,4 +2,4 @@
 sidebar_position: 2
 ---
 
-# Leonardo ai
+# Automatic 1111
