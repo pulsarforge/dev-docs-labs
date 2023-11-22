@@ -4,8 +4,9 @@ sidebar_position: 2
 
 
 # React questions and answers
-Sup dudes, here I will compile react answers, and questions.
 
+## What is React?
+React is a front-end and open-source Javascript library which is useful in developing complex and reusable user interfaces components for mobile and web. Highlighted features: server side rendering, virtual DOM usage, unidirectional data binding and flow, composable ui components.
 
 ## What is Virtual DOM?
 
