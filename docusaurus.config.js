@@ -16,13 +16,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
 
   plugins: [
-    [
-      '@easyops-cn/docusaurus-search-local',
-        {
-          indexDocs: true,
-          docsRouteBasePath: '/'
-        },
-    ],
+    require.resolve('docusaurus-lunr-search'),
   ],
 
   presets: [
