@@ -66,7 +66,7 @@ const config = {
             type: 'doc',
             docId: 'Mind',
             position: 'left',
-            label: 'Programmer Route',
+            label: 'Samuray Programmer Route',
           },
           {
             href: 'https://pulsarforge.io/',
@@ -76,7 +76,6 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
         copyright: `© ${new Date().getFullYear()} Pulsarforge all rights reserved`,
       },
       prism: {
