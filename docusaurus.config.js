@@ -1,16 +1,17 @@
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const {themes} = require('prism-react-renderer');
+const lightTheme = themes.github;
+const darkTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Developer Great Knowledge',
+  title: 'Samuray Programmer Route',
   staticDirectories: ['public', 'static'],
-  tagline: '🤠😎😴🧐',
+  tagline: '🔫🤠⚔🌌',
   favicon: 'img/devs-docs.png',
   url: 'https://main.pulsarforge.io',
   baseUrl: '/',
   organizationName: 'pulsarforge',
-  projectName: 'Build and ship cool platforms',
+  projectName: 'Build and ship platforms',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -51,13 +52,13 @@ const config = {
     ({
       colorMode: {
         defaultMode: 'dark',
-        disableSwitch: true,
+        disableSwitch: false,
       },
       image: 'img/devs-docs.png',
       navbar: {
         title: 'Main',
         logo: {
-          alt: 'Web3 Labs',
+          alt: 'Developer Labs',
           src: 'img/devs-docs.png',
         },
         items: [
@@ -65,11 +66,11 @@ const config = {
             type: 'doc',
             docId: 'Mind',
             position: 'left',
-            label: 'Devs Docs',
+            label: 'Programmer Route',
           },
           {
             href: 'https://pulsarforge.io/',
-            label: 'Dev Labs',
+            label: 'Developer Labs',
             position: 'right',
           },
         ],
@@ -79,8 +80,8 @@ const config = {
         copyright: `© ${new Date().getFullYear()} Pulsarforge all rights reserved`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: lightTheme,
+        darkTheme: darkTheme,
       },
     }),
 };
