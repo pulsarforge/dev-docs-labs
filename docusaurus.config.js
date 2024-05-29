@@ -6,7 +6,7 @@ const darkTheme = themes.dracula;
 const config = {
   title: 'Samuray Programmer Route',
   staticDirectories: ['public', 'static'],
-  tagline: '🔫🤠⚔🌌',
+  tagline: '⚔🤠🌌',
   favicon: 'img/devs-docs.png',
   url: 'https://main.pulsarforge.io',
   baseUrl: '/',

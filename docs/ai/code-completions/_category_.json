@@ -1,8 +1,0 @@
-{
-  "label": "Code completions",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "AI code completions map"
-  }
-}

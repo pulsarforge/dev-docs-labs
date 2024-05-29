@@ -2,4 +2,4 @@
 sidebar_position: 2
 ---
 
-# Automatic 1111
+# AI Images Automatic 1111

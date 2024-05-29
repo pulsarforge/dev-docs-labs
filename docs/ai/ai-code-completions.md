@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Self hosted
+# AI Code Completions Self hosted
 
 The hype with AI keeps going, then let's take a look at open source options that You can set up at your infrastructure, this time for code completions.
 

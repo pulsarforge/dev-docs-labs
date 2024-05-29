@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             to="https://main.pulsarforge.io/docs/Mind">
-              <img src='/img/devs-docs-1.png' alt='developer docs' style={{width: 700}}/>
+              <img src='/img/devs-docs-2.png' alt='developer docs' style={{width: 700}}/>
           </Link>
         </div>
         <br />
