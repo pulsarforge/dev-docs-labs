@@ -9,5 +9,3 @@ sidebar_position: 1
 * **Home Crafting:** Front with Reactjs and Nextjs.
 * **Infrastructure:** Cloudflare, Docker, Podman, DBs.
 * **Artificial Intelligence:** Exploration.
-
-## Gamify
